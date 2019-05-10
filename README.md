@@ -8,7 +8,7 @@ This project was a schoolproject. It is game made in PyGame, wich is a python li
 
 (Click the image to watch the video, **Warning: video has music**)
 
-[![Watch the video](https://image.jpg)](https://project)]
+[![Watch the video](https://oguzcankarakoc.github.io/storage/project2-olympic-games/olympic-games.jpg)](https://oguzcankarakoc.github.io/storage/project2-olympic-games/showcase.mp4)
 
 ## Intallation
 
