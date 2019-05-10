@@ -6,7 +6,7 @@ This project was a schoolproject. It is game made in PyGame, wich is a python li
 
 ## Showcase
 
-(Click the image to watch the video, **Warning: video has music**)
+(Click the image to watch the video, **Warning: video has music**. The mouse in the video is just a recording error)
 
 [![Watch the video](https://oguzcankarakoc.github.io/storage/project2-olympic-games/olympic-games.jpg)](https://oguzcankarakoc.github.io/storage/project2-olympic-games/showcase.mp4)
 
