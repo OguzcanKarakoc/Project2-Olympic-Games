@@ -18,10 +18,14 @@ This project was a schoolproject. It is game made in PyGame, wich is a python li
 4. Create a python env (you can do that with virtualenv):
 ```
 cd /<Go inside the root folder of the project>
-(Windows)
+```
+Windows: 
+```
 virtualenv env
 call /env/Scripts/activate
-(Linux)
+```
+Linux: 
+```
 python -m virtualenv env
 source /env/bin/activate
 ```
